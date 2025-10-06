@@ -120,6 +120,8 @@ const HomePage = () => {
                         <li>Football</li>
                         <li>Volleyball</li>
                         <li>Basketball</li>
+                        <li>Tug of War</li>
+                        <li>Kabaddi</li>
                       </ul>
 
                       <strong className="block text-lg mb-2">FIELD EVENTS</strong>
@@ -191,7 +193,7 @@ const HomePage = () => {
             />
             {/* biome-ignore lint/a11y/useValidAriaRole: <explanation> */}
             <ContactCard
-              name="Ram Singh Nayak Tejavath"
+              name="Bhargav Ch"
               role="Sportec-Club Mentor"
               email="ramsingh22bcd56@iiitkottayam.ac.in"
               phone="9346266283"
@@ -213,7 +215,7 @@ const HomePage = () => {
           <h2 className="text-5xl font-bold mb-6 text-black">Ready to Participate?</h2>
           <Link href={"/registrations"}>
             <Button size="lg" className="bg-black text-yellow-500 hover:bg-gray-900 hover:text-yellow-400 transition-all duration-300 shadow-lg font-semibold">
-              Join Pradhva 2024
+              Join Pradhva 2025
             </Button>
           </Link>
         </section>
@@ -221,7 +223,7 @@ const HomePage = () => {
 
       {/* Footer */}
       <footer className="bg-yellow-500 py-8 text-center text-black mt-20">
-        <p>&copy; 2024 Pradhva. All rights reserved.</p>
+        <p>&copy; 2025 Pradhva. All rights reserved.</p>
       </footer>
     </div>
   );

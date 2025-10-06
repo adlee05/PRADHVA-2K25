@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Pradhva 24-25",
-  description: "Created with ♥️",
+  title: "Pradhva 25-26",
+  description: "Created with ♥️ by the sportec team",
 };
 
 export default function RootLayout({

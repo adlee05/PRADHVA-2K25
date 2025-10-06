@@ -2,7 +2,7 @@ const Page = () => {
     return (
         <div className="min-h-screen bg-gradient-to-br from-yellow-600 to-orange-600 p-8 text-black">
             <div className="max-w-4xl mx-auto bg-white bg-opacity-10 p-8 rounded-lg shadow-lg">
-                <h1 className="text-4xl font-extrabold text-center mb-8 drop-shadow-lg">PRADHVA 2024</h1>
+                <h1 className="text-4xl font-extrabold text-center mb-8 drop-shadow-lg">PRADHVA 2025</h1>
                 <h2 className="text-2xl font-semibold mb-4 underline">Rules and Regulations:</h2>
 
                 <section className="mb-6">
