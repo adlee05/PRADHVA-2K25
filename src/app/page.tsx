@@ -264,7 +264,7 @@ const HomePage = () => {
               role="Sportec-Club Mentor"
               email="praneet23bcs207@iiitkottayam.ac.in"
               phone="9063721357"
-              image="/vyshnavi_pic.jpg"
+              image="/placeholder-w.jpg"
             />
           </div>
         </section>
