@@ -1,6 +1,6 @@
 const Page = () => {
     return (
-        <div className="min-h-screen bg-gradient-to-br from-yellow-600 to-orange-600 p-8 text-black">
+        <div className="min-h-screen bg-gradient-to-br from-green-600 to-white p-8 text-black">
             <div className="max-w-4xl mx-auto bg-white bg-opacity-10 p-8 rounded-lg shadow-lg">
                 <h1 className="text-4xl font-extrabold text-center mb-8 drop-shadow-lg">PRADHVA 2025</h1>
                 <h2 className="text-2xl font-semibold mb-4 underline">Rules and Regulations:</h2>
@@ -8,7 +8,7 @@ const Page = () => {
                 <section className="mb-6">
                     <h3 className="text-xl font-semibold mb-2">Group Games:</h3>
                     <ul className="list-disc ">
-                        <li>The group games include <strong>Cricket</strong>, <strong>Football</strong>, <strong>Volleyball</strong>, <strong>Basketball</strong>, and <strong>Throwball</strong>.</li>
+                        <li>The group games include <strong>Cricket</strong>, <strong>Football</strong>, <strong>Volleyball</strong>, <strong>Basketball</strong>, <strong>Throwball</strong>, <strong>Tug of War</strong> and <strong>Kabaddi</strong>.</li>
                     </ul>
                 </section>
 
@@ -76,7 +76,7 @@ const Page = () => {
                 <section className="mb-6">
                     <h3 className="text-xl font-semibold mb-2">Team Formation:</h3>
                     <ul className="list-disc ">
-                        <li>Teams must consist of members from the same year/batch.</li>
+                        <li>Teams must consist of members from the same house. The players may be from any year.</li>
                     </ul>
                 </section>
 

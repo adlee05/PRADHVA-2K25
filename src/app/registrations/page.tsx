@@ -17,7 +17,7 @@ const sportsData = [
 
 const page = () => {
     return (
-        <div className="min-h-screen bg-gradient-to-br from-yellow-600 to-orange-600 p-8">
+        <div className="min-h-screen bg-gradient-to-br from-green-500 to-white p-8">
             <div className="max-w-6xl mx-auto">
                 <header className="text-center mb-12">
                     <h1 className="text-4xl font-extrabold text-black mb-4 drop-shadow-lg">Registrations</h1>
@@ -43,7 +43,7 @@ const page = () => {
                             </CardHeader>
                             <CardContent>
                                 <Link href={`/registrations/${encodeURIComponent(sport.name)}`}>
-                                    <Button className="w-full bg-gradient-to-br from-orange-600 to-red-600 border-none hover:shadow-lg transition-shadow duration-300 group-hover:from-red-600 group-hover:to-orange-600">
+                                    <Button className="w-full bg-gradient-to-br from-amber-500 to-yellow-300 border-none hover:shadow-lg transition-shadow duration-300 group-hover:from-red-600 group-hover:to-orange-600">
                                         Register Now
                                         <Flame className="ml-2 h-4 w-4" />
                                     </Button>
