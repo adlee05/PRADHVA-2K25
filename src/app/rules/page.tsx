@@ -119,25 +119,16 @@ const Page = () => {
                     <h3 className="text-xl font-semibold mb-2">NOTE:</h3>
                     <ul className="list-disc ">
                         <li>
-                            <strong>Team Allocation by Year:</strong>
-                            <ul className="list-disc ml-4">
-                                <li>2021: <strong>2 Teams</strong></li>
-                                <li>2022: <strong>3 Teams</strong></li>
-                                <li>2023: <strong>3 Teams</strong></li>
-                                <li>2024: <strong>4 Teams</strong></li>
-                            </ul>
-                        </li>
-                        <li>
                             <strong>Cricket-Specific Rule:</strong>
                             <ul className="list-disc ml-4">
-                                <li>Cricket will have <strong>2 Teams per batch</strong>, regardless of the year.</li>
+                                <li>Cricket will have <strong>1 Team per house</strong>, regardless of the year.</li>
                             </ul>
                         </li>
                         <li>
                             <strong>Preliminary Rounds:</strong>
                             <ul className="list-disc ml-4">
-                                <li>For cricket: If the number of teams increases by <strong>more than 2</strong>, preliminaries will be held.</li>
-                                <li>For other sports: If the number of teams <strong>exceeds the allocation specified for that year</strong> (as listed above), preliminaries will be conducted.</li>
+                                <li><strong>For cricket:</strong> If the number of teams increases by <strong>more than 1</strong>, preliminaries will be held.</li>
+                                <li><strong>For other sports:</strong> If the number of teams <strong>exceeds the allocation specified for that house</strong> (as listed above), preliminaries will be conducted.</li>
                             </ul>
                         </li>
                     </ul>
