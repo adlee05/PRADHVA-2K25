@@ -127,7 +127,7 @@ const Page = () => {
                         <li>
                             <strong>Preliminary Rounds:</strong>
                             <ul className="list-disc ml-4">
-                                <li><strong>For cricket:</strong> If the number of teams increases by <strong>more than 1</strong>, preliminaries will be held.</li>
+                                <li><strong>For cricket:</strong> If the number of teams increases by <strong>more than 2</strong>, preliminaries will be held.</li>
                                 <li><strong>For other sports:</strong> If the number of teams <strong>exceeds the allocation specified for that house</strong> (as listed above), preliminaries will be conducted.</li>
                             </ul>
                         </li>
