@@ -8,7 +8,7 @@ const Page = () => {
                 <section className="mb-6">
                     <h3 className="text-xl font-semibold mb-2">Group Games:</h3>
                     <ul className="list-disc ">
-                        <li>The group games include <strong>Cricket</strong>, <strong>Football</strong>, <strong>Volleyball</strong>, <strong>Basketball</strong>, <strong>Throwball</strong>, <strong>Tug of War</strong> and <strong>Kabaddi</strong>.</li>
+                        <li>The group games include <strong>Cricket</strong>, <strong>Football</strong>, <strong>Volleyball</strong>, <strong>Basketball</strong>, <strong>Throwball</strong>, <strong>Kho - Kho</strong> and <strong>Kabaddi</strong>.</li>
                     </ul>
                 </section>
 
@@ -121,7 +121,7 @@ const Page = () => {
                         <li>
                             <strong>Cricket-Specific Rule:</strong>
                             <ul className="list-disc ml-4">
-                                <li>Cricket will have <strong>1 Team per house</strong>, regardless of the year.</li>
+                                <li>Cricket will have <strong>2 Team per house</strong>, regardless of the year.</li>
                             </ul>
                         </li>
                         <li>
