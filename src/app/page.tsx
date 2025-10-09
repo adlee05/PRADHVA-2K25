@@ -255,7 +255,7 @@ const HomePage = () => {
               name="Bhargav Ch"
               role="Sportec-Club Mentor"
               email="chennup23bcs219@iiitkottayam.ac.in"
-              phone="9381895559"
+              phone="+91 9381895559"
               image="/bhargav.jpeg" // Update image path
             />
             {/* biome-ignore lint/a11y/useValidAriaRole: <explanation> */}
@@ -263,7 +263,7 @@ const HomePage = () => {
               name="Praneetha Pillai"
               role="Sportec-Club Mentor"
               email="praneet23bcs207@iiitkottayam.ac.in"
-              phone="9063721357"
+              phone="+91 9063721357"
               image="/placeholder-w.jpg"
             />
           </div>
