@@ -107,9 +107,7 @@ const HomePage = () => {
       <main className="container mx-auto px-4 py-16">
         {/* About Section */}
         <section id="about" className="mb-20">
-          <h2 className="text-5xl font-bold mb-6 text-black">
-            About Pradhva
-          </h2>
+          <h2 className="text-5xl font-bold mb-6 text-black">About Pradhva</h2>
           <p className="text-xl mb-4 text-white">
             Pradhva is IIIT Kottayam&apos;s annual sports fest, where students
             participate in a wide range of sports events. It serves as a
@@ -169,7 +167,7 @@ const HomePage = () => {
                         <li>Football</li>
                         <li>Volleyball</li>
                         <li>Basketball</li>
-                        <li>Tug of War</li>
+                        <li>Kho-Kho</li>
                         <li>Kabaddi</li>
                       </ul>
 
@@ -185,6 +183,11 @@ const HomePage = () => {
                     </div>
                   </div>
                 </div>
+                <ul>
+                  <li>
+                    <strong>Kabaddi and Kho-Kho will be conducted later</strong>
+                  </li>
+                </ul>
               </CardContent>
             </Card>
             <Card className="bg-gradient-to-br from-amber-500 to-yellow-300 border-none hover:shadow-lg transition-shadow duration-300">
@@ -229,9 +232,7 @@ const HomePage = () => {
         </section>
 
         <section id="contact" className="mb-20">
-          <h2 className="text-5xl font-bold mb-10 text-black">
-            Contact Us
-          </h2>
+          <h2 className="text-5xl font-bold mb-10 text-black">Contact Us</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
             {/* biome-ignore lint/a11y/useValidAriaRole: <explanation> */}
             <ContactCard
