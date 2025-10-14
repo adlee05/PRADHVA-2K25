@@ -121,7 +121,7 @@ const Page = () => {
                         <li>
                             <strong>Cricket-Specific Rule:</strong>
                             <ul className="list-disc ml-4">
-                                <li>Cricket will have <strong>2 Team per house</strong>, regardless of the year.</li>
+                                <li>Cricket will have <strong>2 Teams per house</strong>, regardless of the year.</li>
                             </ul>
                         </li>
                         <li>

@@ -87,6 +87,17 @@ const sportsData: {
         formLink: 'https://forms.gle/DJ4PBFUrfJfgB8Y46',
         bgImage: '/images/throw-ball-bg.jpg'
     },
+    'Kho-Kho': {
+        icon: '🏀',
+        rules: [
+            "Spot registrations are not permitted.",
+            "A maximum of 12 players may represent any batch or team.",
+            "All matches will follow a knockout format.",
+            "Each match will have a duration of 20 minutes, divided into four 5-minute quarters.",
+        ],
+        formLink: 'https://forms.gle/AZcESFzhkYav3s469',
+        bgImage: '/images/basketball-bg.jpg'
+    },
     'Basketball': {
         icon: '🏀',
         rules: [
@@ -130,7 +141,7 @@ const page = ({ params }: { params: { sport: string } }) => {
             />
 
             {/* Gradient Overlay */}
-            <div className="absolute inset-0 bg-gradient-to-br from-yellow-600/90 via-orange-600/90 to-red-600/90 z-10" />
+            <div className="absolute inset-0 bg-gradient-to-br from-green-500/90 to-white z-10" />
 
             {/* Content */}
             <div className="relative z-20 min-h-screen flex items-center justify-center p-8 mb-6">
