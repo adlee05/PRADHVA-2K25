@@ -57,7 +57,7 @@ const sportsData: {
         icon: '🏐',
         rules: [
             "Spot registrations are not permitted.",
-            "A maximum of 12 players may represent any batch or team.",
+            "A maximum of 10 players may represent any batch or team.",
             "The tournament will be conducted on a knockout basis. ",
             "Matches up to the quarterfinals will be played in a best of 3 sets format, with each set played to 15 points.",
             "Semi-final matches will also be played in a best of 3 sets format, but each set will be played to 25 points.",
