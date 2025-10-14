@@ -23,7 +23,7 @@ const sportsData: {
             "No more than 15 players are allowed to represent a single batch or team.",
             "League matches will be held on our college ground, while the semi-finals and final matches will take place on an external ground outside the campus.",
         ],
-        formLink: 'https://forms.gle/HioiTZFoVskaBsQD6',
+        formLink: 'https://forms.gle/924GNUD8Sfrtnm629',
         bgImage: '/images/cricket-bg.jpg'
     },
     'Athletics': {
@@ -37,9 +37,22 @@ const sportsData: {
             "Athletes exhibiting unsportsmanlike conduct, including using unfair methods or disputing with officials, will face disqualification.",
             "All athletes must arrive at their event locations no later than 15 minutes before the event starts.",
         ],
-        formLink: 'https://forms.gle/DSc1uiXP94qFGxYd9',
+        formLink: 'https://forms.gle/zTWoYrV4G16WKn4H9',
         bgImage: '/images/athletics-bg.jpg'
     },
+    'Kabaddi': {
+        icon: '🤼',
+        rules: [
+            "A maximum of 12 players may represent any team.",
+            "The tournament will be conducted on a knockout basis",
+            "Preliminary matches will be played as two 10-minute halves with a 5-minute break in between",
+            "Quarter-final matches will be conducted as two 15-minute halves with a 5-minute break in between",
+            "A team can have a maximum of 3 substitutions per match",
+        ],
+        formLink: 'https://forms.gle/HbUUwayewh8yhkXh8',
+        bgImage: '/images/volleyball-bg.jpg'
+    },
+
     'Volleyball': {
         icon: '🏐',
         rules: [
@@ -50,7 +63,7 @@ const sportsData: {
             "Semi-final matches will also be played in a best of 3 sets format, but each set will be played to 25 points.",
             "Final matches will be played in a best of 5 sets format, with each set played to 25 points."
         ],
-        formLink: 'https://forms.gle/1i5LoSvnKQ625DA99',
+        formLink: 'https://forms.gle/od2eK5aLkynyavZD9',
         bgImage: '/images/volleyball-bg.jpg'
     },
     'Badminton': {
@@ -62,8 +75,8 @@ const sportsData: {
             "Semi-final and final matches will also be played in a best of 3 sets format, but each set will be played to 21 points.",
             "The same scoring rules apply to doubles matches as well."
         ],
-        singlesFormLink: 'https://forms.gle/Pj5gd9fbwyyzz43PA',
-        doublesFormLink: 'https://forms.gle/ehEa15DWeM6zaY2f6',
+        singlesFormLink: 'https://forms.gle/T9NFrR83R9oB3Tn57',
+        doublesFormLink: 'https://forms.gle/W1XttNrcg4JFKgzQ6',
         bgImage: '/images/badminton-bg.jpg'
     },
     'Football': {
@@ -74,7 +87,7 @@ const sportsData: {
             "All matches will follow a knockout format. If a match ends in a draw, extra time will be given, followed by a penalty shootout to decide the winner.",
             "Each team must have no more than 16 members."
         ],
-        formLink: 'https://forms.gle/sv3Xc3jTYZkBBD6YA',
+        formLink: 'https://forms.gle/fcB7RwAAmsJbeR167',
         bgImage: '/images/football-bg.jpg'
     },
     'Throw Ball': {
@@ -84,18 +97,18 @@ const sportsData: {
             "Each team must submit a list of players, with a maximum of 12 players allowed.",
             "The tournament will be conducted on a knockout basis, with all matches played in a best of 3 sets format, using 15 rally points per set.",
         ],
-        formLink: 'https://forms.gle/DJ4PBFUrfJfgB8Y46',
+        formLink: 'https://forms.gle/WhLjK2dP3kgWkBKj7',
         bgImage: '/images/throw-ball-bg.jpg'
     },
     'Kho-Kho': {
-        icon: '🏀',
+        icon: '',
         rules: [
             "Spot registrations are not permitted.",
             "A maximum of 12 players may represent any batch or team.",
             "All matches will follow a knockout format.",
             "Each match will have a duration of 20 minutes, divided into four 5-minute quarters.",
         ],
-        formLink: 'https://forms.gle/AZcESFzhkYav3s469',
+        formLink: 'https://forms.gle/kV9Uwx2bxXHaxc2a7',
         bgImage: '/images/basketball-bg.jpg'
     },
     'Basketball': {
@@ -106,7 +119,7 @@ const sportsData: {
             "All matches will follow a knockout format.",
             "Each match will have a duration of 20 minutes, divided into four 5-minute quarters.",
         ],
-        formLink: 'https://forms.gle/AZcESFzhkYav3s469',
+        formLink: 'https://forms.gle/G5QwGVQx4H2vKMSD9',
         bgImage: '/images/basketball-bg.jpg'
     },
     'Indoor Games': {
@@ -119,7 +132,7 @@ const sportsData: {
             "Quarter-final, semi-final, and final matches of Table Tennis will be conducted in a best of 3 sets format, with each set played to 11 points.",
             "The same scoring rules apply to doubles matches in Table Tennis as well."
         ],
-        formLink: 'https://forms.gle/ukzP298AtBzZeVY37',
+        formLink: 'https://forms.gle/1YFD4URbCbyw46MV8',
         bgImage: '/images/board-games-bg.jpg'
     }
 };

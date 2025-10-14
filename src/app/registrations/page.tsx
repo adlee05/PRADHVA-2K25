@@ -11,7 +11,8 @@ const sportsData = [
   { name: "Badminton", icon: "🏸" },
   { name: "Football", icon: "⚽" },
   { name: "Throw Ball", icon: "🤾‍♀️" },
-  { name: "Kho-Kho", icon: "🏓" },
+  { name: "Kho-Kho", icon: "" },
+  { name: "Kabaddi", icon: "🤼" },
   { name: "Basketball", icon: "🏀" },
   { name: "Indoor Games", icon: "🏓" },
 ];
